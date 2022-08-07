@@ -1,0 +1,55 @@
+
+/* import pic from '../../images/TC3Baner5.jpg' */
+.main_container_home{
+    margin: 0 0;
+    display: flex;
+    height: 92vh;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    background-color: RED;
+    /* background-image: url('/client/public/assets/TC3Baner5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+
+}
+.main_heading{
+    /* margin-top:auto; */
+    /* display:inline; */
+    font-weight: bold;
+
+}
+.home_btn{
+    border-radius: 14px;
+    border:none;
+    font-size: 23px;
+    /* border-radius: none; */
+    margin-top: 15px;
+    
+}
+.home_btn:hover{
+    color:white;
+    background-color: black;
+
+}
+.upper_one {
+    /* background-color: red; */
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.main{
+    margin: 0;
+}
+.imgg{
+    display: inline-block;
+    margin: auto;
+}
+.hrLine{
+    /* width: 53px; */
+}
+.signbtn{
+    border-radius: 20px;
+}

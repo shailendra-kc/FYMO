@@ -1,0 +1,27 @@
+.main_div{
+    width: 70%;
+    height: 70vh;
+   
+    margin: auto;
+}
+.input_form{
+    margin: 0.55rem 0 ;
+    margin-left: 0.01rem;
+    width: 97%;
+    background-color: #FBF8F1;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 11px ;
+    
+}
+input:focus{
+    outline: none;
+}
+.form-bottom
+{
+   text-decoration: none;
+   color: black;
+   position: absolute;
+   left: 33rem;
+   margin-top: 0.5rem;
+}

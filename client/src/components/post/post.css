@@ -1,0 +1,40 @@
+
+.card1{
+    width: 30%;
+    margin-top: 12px;
+    padding: 0;
+    height: 220px;
+    margin-bottom: 12px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.main-div{
+    display: flex;
+
+}
+.first_div{
+    margin: 0;
+    width: 48%;
+
+}
+.second_div{
+    margin: 0;
+    position: relative;
+    width: 48%;
+    left: 13rem;
+    top: -13rem;
+
+}
+.card-img-top1{
+    height: 206px;
+    width: 206px;
+}
+.pending{
+    color: red;
+}
+.received{
+    color: blue;
+}
+.processed{
+    color: green;
+}

@@ -1,0 +1,9 @@
+
+.form_div{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.details_input{
+    width: 30rem;
+}

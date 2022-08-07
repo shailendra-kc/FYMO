@@ -1,0 +1,38 @@
+
+.card{
+    margin: 0 0;
+    width: 32%;
+    box-shadow: 10px 10px 11px 2px #888888;
+    transition: transform .2s;
+}
+.card:hover{
+    /* background-color: red; */
+    transform: scale(1.1);
+}
+.contact_upper{
+    width: 80%;
+    margin: 2rem auto;
+    justify-content: space-between;
+}
+.lower_contact{
+    width: 60%;
+    margin: 0.5rem auto;
+    margin-top: 6rem;
+    height: 45vh;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 0px 4px 6px grey;
+}
+.contact_form_input:focus{
+    outline: none;
+
+}
+.contact_form_input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.text-area{
+    position: relative;
+    top: 1.2rem;
+    margin-right: 0.2rem;
+}
